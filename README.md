@@ -45,7 +45,7 @@ Banco de dados completo dos **5.571 municipios** brasileiros com bandeiras, CEPs
 | **Transporte** | Frota de veiculos (2024) | 5.570/5.571 (100%) |
 | **Telefonia** | DDD | 5.571/5.571 (100%) |
 | **Enderecos** | CEP sede + 1.277.567 CEPs com logradouro, bairro | 5.558/5.571 (99.8%) |
-| **Bandeiras** | SVG + PNG em 4 estilos | 4.381/5.571 (78.6%) |
+| **Bandeiras** | SVG + PNG em 4 estilos | 4.382/5.571 (78.7%) |
 
 ---
 
